@@ -6,7 +6,6 @@ body{
     
 }
 reader{
-    border: solid 2px ;
+    border-bottom: solid 2px rgb(7, 197, 71);
     padding: 20px;
-    font-family: cursive;
 }
