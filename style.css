@@ -1,5 +1,12 @@
 body{
     background-color: black;
     color: rgb(0, 217, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: opx; 
     
+}
+reader{
+    border: solid 2px ;
+    padding: 20px;
+    font-family: cursive;
 }
