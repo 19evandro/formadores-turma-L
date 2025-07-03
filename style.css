@@ -16,3 +16,6 @@ background-color: rgb(87, 190, 87);
     padding-bottom: 80px;
     display:flex /*divs um ao lado do outro*/
 }
+.chamada-texto{
+    margin-right: 5%;
+}
