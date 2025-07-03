@@ -1,3 +1,4 @@
+* 
 body{
     background-color: black;
     color: rgb(0, 217, 255);
@@ -8,4 +9,10 @@ body{
 reader{
     border-bottom: solid 2px rgb(7, 197, 71);
     padding: 20px;
+}
+section {
+background-color: rgb(87, 190, 87);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:flex /*divs um ao lado do outro*/
 }
